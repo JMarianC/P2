@@ -1,0 +1,28 @@
+body {background: #424242}
+
+
+#titulo { background: green; color: #FFFFFF; font-family: Candara;
+  font-size: 30pt; font-weight: bold; text-align: center; text-decoration: underline; }
+
+.titulo2 { background: green; color: #FFFFFF; font-family: Candara;
+  font-size: 26pt; font-weight: bold; text-align: right;}
+
+
+ .texto { color: #FFFFFF; font-family: Century Gothic;
+   font-size: 16pt; }
+
+
+  .ingredientes { background: green; color: #FFFFFF; font-family: Candara;
+    font-size: 22pt; font-weight: bold; text-decoration: underline; }
+
+
+  .lista { color: #FFFFFF; font-family: Century Gothic;
+    font-size: 14pt; font-weight: bold; }
+
+ .pasos { background: green; color: #FFFFFF; font-family: Candara;
+   font-size: 22pt; font-weight: bold; text-decoration: underline; }
+
+  .pasos_1 { color: #FFFFFF; font-family: Century Gothic;
+    font-size: 14pt; }
+
+.enlance {background: #BDE889}
